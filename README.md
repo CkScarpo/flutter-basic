@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project. Returning to Flutter after a few years.
+A new Flutter project based on the course of Flutterando. Returning to Flutter after a few years.
 
 ## Getting Started
 
